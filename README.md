@@ -1,0 +1,2 @@
+# Server-client-bst-organiser
+client-server program where the server machine manages a binary search tree data structure. during the day time many clients perform operations on the bst. each client sends its bst commands in the form of a command-file to the server. and then these commands, if valid are executed by the server.   during the night time there is a downtime function which is called to balance the tree.
